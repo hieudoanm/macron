@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>macron — word graph (3D)</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://unpkg.com/3d-force-graph@1"></script>
+  </head>
+  <body>
+    <div id="graph"></div>
+    <div id="loader">
+      <div><span id="elapsed">0s</span></div>
+      <div>
+        <span class="ldot"></span>
+        <span class="ldot d2"></span>
+        <span class="ldot d3"></span>
+      </div>
+      <div>graphing</div>
+    </div>
+    <div id="hud">
+      <b>macron graph</b> (<a href="3d.html">3D</a> ·
+      <a href="2d.html">2D</a>)<br />
+      nodes: <span id="nn">0</span> · links: <span id="nl">0</span><br />
+      <span class="hint">drag to orbit · scroll to zoom</span>
+    </div>
+    <script src="3d.js"></script>
+  </body>
+</html>

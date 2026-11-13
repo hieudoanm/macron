@@ -1,0 +1,11 @@
+# us
+
+## North American republic containing 50 states - 48 conterminous states [in](in.md) North America plus Alaska [in](in.md) northwest North America [and](and.md) [the](the.md) Hawaiian Islands [in](in.md) [the](the.md) Pacific Ocean; achieved independence [in](in.md) 1776
+
+- **partOfSpeech**: noun
+- **synonyms**: [america](america.md), u.s., u.s.a., usa
+- **hasParts**: washington, ind., indiana, [south](south.md), iowa, jersey, kan., kansas, ken., kentucky, ks, ky, [la](la.md), la., yosemite, louisiana, [ma](ma.md), maine, maryland, mass., massachusetts, west, md, md., [me](me.md), me., sunbelt, mi, mich., michigan, midwest, minn., minnesota, miss., mississippi, missouri, mn, mo, mo., mont., montana, ms, mt, n.c., n.d., n.h., n.j., n.m., n.y., wi, nc, nd, ne, neb., nebraska, nev., nevada, nh, niagara, niobrara, nj, nm, [north](north.md), tenn., tennessee, tex., nv, ny, texas, [oh](oh.md), ohio, [ok](ok.md), okla., oklahoma, tn, wis., wisc., wisconsin, [or](or.md), ore., oregon, pa, pa., ak, al, ala., alabama, alaska, ar, arizona, ark., arkansas, pennsylvania, wv, az, wy, twin, r.i., tx, wyo., ca, calif., california, id, idaho, [il](il.md), ill., illinois, wa, [in](in.md), wash., id., wyoming, co, yukon, colo., colony, colorado, ut, connecticut, ct, ct., d.c., dakota, dc, de, del., delaware, ri, ut., utah, va, s.c., east, s.d., sc, va., fl, fla., florida, ga, ga., vermont, sd, georgia, virginia, vt, haw., hawai'i, hawaii, vt., [hi](hi.md), ia, ia., w.v.
+- **hasInstances**: [north](north.md), union
+- **memberOf**: oas, nato
+- **hasMembers**: [american](american.md)
+- **regionOf**: 1000000000, 1000000000000, athabascan, athabaskan, athapascan, athapaskan, barrio, beak, billion, billionth, buck, clam, cola, county, desperado, dollar, dope, gibson, hedeoma, honker, hooter, ic, [in](in.md), inaugural, inch, maquiladora, marlowe, mestiza, mestizo, nation, [north](north.md), northerner, nozzle, octillion, partridge, quadrillion, quintillion, reallocation, reallotment, reapportionment, recall, schnoz, schnozzle, septillion, sextillion, shamanism, snoot, snout, southernism, staffer, tart, teacake, totem, trapezium, trapezoid, tribe, trillion, union, yank, yankee, first-year, freshman, marine

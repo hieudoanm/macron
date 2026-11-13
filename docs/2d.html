@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>macron — word graph (2D)</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  </head>
+  <body>
+    <svg id="graph"></svg>
+    <div id="loader">
+      <div><span id="elapsed">0s</span></div>
+      <div>
+        <span class="ldot"></span>
+        <span class="ldot d2"></span>
+        <span class="ldot d3"></span>
+      </div>
+      <div>graphing</div>
+    </div>
+    <div id="tooltip"></div>
+    <div id="hud">
+      <b>macron graph</b> (<a href="3d.html">3D</a> ·
+      <a href="2d.html">2D</a>)<br />
+      nodes: <span id="nn">0</span> · links: <span id="nl">0</span><br />
+      <span class="hint">drag to pan · scroll to zoom</span>
+      <span class="hint">double-click / R to stir</span>
+    </div>
+    <script src="2d.js"></script>
+  </body>
+</html>

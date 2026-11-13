@@ -1,0 +1,129 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  font-family: system-ui, sans-serif;
+  background: #0f1115;
+  color: #ddd;
+  overflow: hidden;
+}
+#graph {
+  width: 100vw;
+  height: 100vh;
+}
+svg#graph {
+  display: block;
+  cursor: grab;
+}
+svg#graph:active {
+  cursor: grabbing;
+}
+#hud {
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  padding: 10px 14px;
+  background: rgba(20, 24, 32, 0.85);
+  border-radius: 8px;
+  font-size: 13px;
+  line-height: 1.7;
+  user-select: none;
+  z-index: 10;
+}
+#hud b {
+  color: #7cc4ff;
+}
+#hud a {
+  color: #7cc4ff;
+  text-decoration: none;
+}
+#hud a:hover {
+  text-decoration: underline;
+}
+#hud select {
+  background: #1a1f2a;
+  color: #ddd;
+  border: 1px solid #3a4a63;
+  border-radius: 4px;
+  padding: 1px 4px;
+  font: inherit;
+}
+#hud .hint {
+  display: block;
+  color: #666;
+}
+#loader {
+  position: fixed;
+  inset: 0;
+  background: #0f1115;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: #999;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+  z-index: 20;
+  transition: opacity 3s ease;
+}
+.ldot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  margin: 0 3px;
+  border-radius: 50%;
+  background: #999;
+  animation: ldot 1.2s infinite;
+}
+.ldot.d2 {
+  animation-delay: 0.2s;
+}
+.ldot.d3 {
+  animation-delay: 0.4s;
+}
+@keyframes ldot {
+  0%,
+  60%,
+  100% {
+    opacity: 0.15;
+  }
+  30% {
+    opacity: 1;
+  }
+}
+.link {
+  stroke: var(--node-color, #3a4a63);
+  stroke: color-mix(in srgb, var(--node-color, #3a4a63) 35%, #0f1115);
+  stroke-opacity: 0.6;
+}
+.node {
+  fill: var(--node-color, #3b82f6);
+}
+.node:hover {
+  fill: #ffd166;
+}
+#tooltip {
+  position: fixed;
+  display: none;
+  padding: 6px 10px;
+  background: rgba(20, 24, 32, 0.95);
+  border: 1px solid #3a4a63;
+  border-radius: 6px;
+  font-size: 12px;
+  line-height: 1.5;
+  pointer-events: none;
+  z-index: 10;
+  white-space: nowrap;
+}
+#tooltip b {
+  color: #7cc4ff;
+  font-size: 14px;
+}
+#tooltip .deg {
+  color: #999;
+}
