@@ -1,0 +1,9 @@
+# scotland
+
+## [one](one.md) [of](of.md) [the](the.md) [four](four.md) countries [that](that.md) [make](make.md) [up](up.md) [the](the.md) United Kingdom [of](of.md) Great Britain [and](and.md) Northern Ireland; [located](located.md) [on](on.md) [the](the.md) [northern](northern.md) [part](part.md) [of](of.md) [the](the.md) [island](island.md) [of](of.md) Great Britain; [famous](famous.md) [for](for.md) [bagpipes](bagpipes.md) [and](and.md) plaids [and](and.md) kilts
+
+- **partOfSpeech**: [noun](noun.md)
+- **partOf**: [uk](uk.md), [u.k.](u.k..md), [gb](gb.md), [europe](europe.md), [britain](britain.md)
+- **hasParts**: [caledonia](caledonia.md), [cheviots](cheviots.md), [clyde](clyde.md), [cumbria](cumbria.md), [forth](forth.md), [galloway](galloway.md), [glasgow](glasgow.md), [hebrides](hebrides.md), [highlands](highlands.md), [lowlands](lowlands.md), [aberdeen](aberdeen.md), [shetland](shetland.md), [zetland](zetland.md)
+- **hasMembers**: [scotsman](scotsman.md), [scot](scot.md), [scotchman](scotchman.md)
+- **regionOf**: [laird](laird.md), [langside](langside.md), [dirk](dirk.md), [strapping](strapping.md), [ben](ben.md), [curling](curling.md), [kelpie](kelpie.md), [kelpy](kelpy.md), [lammastide](lammastide.md), [firth](firth.md), [scots](scots.md), [scottish](scottish.md), [scunner](scunner.md), [brae](brae.md), [langsyne](langsyne.md), [tawse](tawse.md), [thane](thane.md), [couthie](couthie.md), [caller](caller.md), [burly](burly.md), [buirdly](buirdly.md), [wee](wee.md), [brunanburh](brunanburh.md), [bairn](bairn.md), [bannockburn](bannockburn.md), [bashful](bashful.md), [beefy](beefy.md), [blae](blae.md), [blate](blate.md), [leal](leal.md), [ceilidh](ceilidh.md), [glen](glen.md), [husky](husky.md), [couthy](couthy.md), [haggis](haggis.md), [bap](bap.md), [braw](braw.md)

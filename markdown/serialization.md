@@ -1,0 +1,8 @@
+# serialization
+
+## [publication](publication.md) [in](in.md) [serial](serial.md) [form](form.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [serialisation](serialisation.md)
+- **typeOf**: [publication](publication.md), [publishing](publishing.md)
+- **derivation**: [serialize](serialize.md)

@@ -1,0 +1,10 @@
+# africa
+
+## [the](the.md) [second](second.md) [largest](largest.md) [continent](continent.md); [located](located.md) [to](to.md) [the](the.md) [south](south.md) [of](of.md) Europe [and](and.md) [bordered](bordered.md) [to](to.md) [the](the.md) [west](west.md) [by](by.md) [the](the.md) South Atlantic [and](and.md) [to](to.md) [the](the.md) [east](east.md) [by](by.md) [the](the.md) Indian Ocean
+
+- **partOfSpeech**: [noun](noun.md)
+- **partOf**: [orient](orient.md)
+- **hasParts**: [cameroun](cameroun.md), [chad](chad.md), [chari](chari.md), [congo](congo.md), [dahomey](dahomey.md), [djibouti](djibouti.md), [egypt](egypt.md), [ethiopia](ethiopia.md), [gabon](gabon.md), [gabun](gabun.md), [gambia](gambia.md), [ghana](ghana.md), [guine-bissau](guine-bissau.md), [guinea](guinea.md), [guinea-bissau](guinea-bissau.md), [kenya](kenya.md), [lesotho](lesotho.md), [liberia](liberia.md), [libya](libya.md), [madagascar](madagascar.md), [maghreb](maghreb.md), [mahgrib](mahgrib.md), [malawi](malawi.md), [mali](mali.md), [mauritania](mauritania.md), [mauritanie](mauritanie.md), [mocambique](mocambique.md), [mozambique](mozambique.md), [muritaniya](muritaniya.md), [namibia](namibia.md), [niger](niger.md), [nigeria](nigeria.md), [nubia](nubia.md), [nyasaland](nyasaland.md), [rhodesia](rhodesia.md), [ruanda](ruanda.md), [rwanda](rwanda.md), [sahara](sahara.md), [senegal](senegal.md), [shari](shari.md), [zimbabwe](zimbabwe.md), [angola](angola.md), [barbary](barbary.md), [basutoland](basutoland.md), [benin](benin.md), [botswana](botswana.md), [burundi](burundi.md), [cameroon](cameroon.md), [zambia](zambia.md), [abyssinia](abyssinia.md), [somalia](somalia.md), [soudan](soudan.md), [sudan](sudan.md), [swaziland](swaziland.md), [tanganyika](tanganyika.md), [tanzania](tanzania.md), [tchad](tchad.md), [togo](togo.md), [uganda](uganda.md), [yaltopya](yaltopya.md), [zaire](zaire.md)
+- **instanceOf**: [continent](continent.md)
+- **regionOf**: [ameer](ameer.md), [emir](emir.md), [amir](amir.md), [safari](safari.md), [campaign](campaign.md), [emeer](emeer.md), [namibia](namibia.md)
+- **derivation**: [african](african.md)

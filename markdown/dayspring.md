@@ -1,0 +1,7 @@
+# dayspring
+
+## [the](the.md) [first](first.md) [light](light.md) [of](of.md) [day](day.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [aurora](aurora.md), [cockcrow](cockcrow.md), [dawn](dawn.md), [dawning](dawning.md), [daybreak](daybreak.md), [morning](morning.md), [sunrise](sunrise.md), [sunup](sunup.md)
+- **typeOf**: [hour](hour.md)

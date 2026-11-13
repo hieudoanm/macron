@@ -1,0 +1,7 @@
+# eschaton
+
+## (New Testament) [day](day.md) [at](at.md) [the](the.md) [end](end.md) [of](of.md) [time](time.md) [following](following.md) Armageddon [when](when.md) God [will](will.md) [decree](decree.md) [the](the.md) [fates](fates.md) [of](of.md) [all](all.md) [individual](individual.md) [humans](humans.md) [according](according.md) [to](to.md) [the](the.md) [good](good.md) [and](and.md) [evil](evil.md) [of](of.md) [their](their.md) [earthly](earthly.md) [lives](lives.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [doomsday](doomsday.md)
+- **typeOf**: [day](day.md)

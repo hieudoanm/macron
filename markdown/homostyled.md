@@ -1,0 +1,8 @@
+# homostyled
+
+## ([botany](botany.md)) [having](having.md) styles [all](all.md) [of](of.md) [the](the.md) [same](same.md) [length](length.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [homostylic](homostylic.md), [homostylous](homostylous.md)
+- **inCategory**: [botany](botany.md), [phytology](phytology.md)
+- **pertainsTo**: [style](style.md)

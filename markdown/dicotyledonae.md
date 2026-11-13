@@ -1,0 +1,9 @@
+# dicotyledonae
+
+## [comprising](comprising.md) [seed](seed.md) plants [that](that.md) [produce](produce.md) [an](an.md) [embryo](embryo.md) [with](with.md) [paired](paired.md) cotyledons [and](and.md) net-veined [leaves](leaves.md); [divided](divided.md) [into](into.md) [six](six.md) ([not](not.md) [always](always.md) [well](well.md) [distinguished](distinguished.md)) subclasses ([or](or.md) superorders): Magnoliidae [and](and.md) Hamamelidae ([considered](considered.md) [primitive](primitive.md)); Caryophyllidae ([an](an.md) [early](early.md) [and](and.md) [distinctive](distinctive.md) [offshoot](offshoot.md)); [and](and.md) [three](three.md) [more](more.md) [or](or.md) [less](less.md) [advanced](advanced.md) groups: Dilleniidae; Rosidae; Asteridae
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [dicotyledones](dicotyledones.md), [magnoliopsida](magnoliopsida.md)
+- **typeOf**: [class](class.md)
+- **memberOf**: [anthophyta](anthophyta.md), [angiospermae](angiospermae.md), [magnoliophyta](magnoliophyta.md)
+- **hasMembers**: [aristolochiales](aristolochiales.md), [asteridae](asteridae.md), [caryophyllidae](caryophyllidae.md), [casuarinales](casuarinales.md), [urticales](urticales.md), [diapensiales](diapensiales.md), [dicot](dicot.md), [dicotyledon](dicotyledon.md), [dilleniidae](dilleniidae.md), [ebenales](ebenales.md), [exogen](exogen.md), [gentianales](gentianales.md), [hamamelidae](hamamelidae.md), [juglandales](juglandales.md), [magnoliidae](magnoliidae.md), [magnoliopsid](magnoliopsid.md), [myricales](myricales.md), [oleales](oleales.md), [piperales](piperales.md), [plantaginales](plantaginales.md), [polygonales](polygonales.md), [primulales](primulales.md), [proteales](proteales.md), [rhamnales](rhamnales.md), [rosidae](rosidae.md), [salicales](salicales.md), [sapindales](sapindales.md), [sarraceniales](sarraceniales.md), [scrophulariales](scrophulariales.md)

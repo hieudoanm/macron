@@ -1,0 +1,18 @@
+# beast
+
+## [a](a.md) [cruelly](cruelly.md) [rapacious](rapacious.md) [person](person.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [brute](brute.md), [savage](savage.md), [wildcat](wildcat.md), [wolf](wolf.md)
+- **typeOf**: [assaulter](assaulter.md), [aggressor](aggressor.md), [attacker](attacker.md), [assailant](assailant.md)
+
+## [a](a.md) [living](living.md) [organism](organism.md) [characterized](characterized.md) [by](by.md) [voluntary](voluntary.md) [movement](movement.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [animal](animal.md), [brute](brute.md), [creature](creature.md), [fauna](fauna.md)
+- **typeOf**: [organism](organism.md), [being](being.md)
+- **hasTypes**: [racer](racer.md), [adult](adult.md), [biped](biped.md), [captive](captive.md), [chordate](chordate.md), [conceptus](conceptus.md), [creepy-crawly](creepy-crawly.md), [critter](critter.md), [darter](darter.md), [ectotherm](ectotherm.md), [embryo](embryo.md), [feeder](feeder.md), [female](female.md), [game](game.md), [giant](giant.md), [herbivore](herbivore.md), [hexapod](hexapod.md), [homeotherm](homeotherm.md), [homoiotherm](homoiotherm.md), [homotherm](homotherm.md), [insectivore](insectivore.md), [invertebrate](invertebrate.md), [larva](larva.md), [male](male.md), [mate](mate.md), [metazoan](metazoan.md), [migrator](migrator.md), [molter](molter.md), [moulter](moulter.md), [mutant](mutant.md), [offspring](offspring.md), [omnivore](omnivore.md), [peeper](peeper.md), [pest](pest.md), [pet](pet.md), [pleurodont](pleurodont.md), [poikilotherm](poikilotherm.md), [predator](predator.md), [prey](prey.md), [pureblood](pureblood.md), [purebred](purebred.md), [quarry](quarry.md), [acrodont](acrodont.md), [scavenger](scavenger.md), [stayer](stayer.md), [stunt](stunt.md), [survivor](survivor.md), [thoroughbred](thoroughbred.md), [varment](varment.md), [varmint](varmint.md), [young](young.md), [zooplankton](zooplankton.md)
+- **hasParts**: [caput](caput.md), [head](head.md), [face](face.md)
+- **memberOf**: [animalia](animalia.md)
+- **hasCategories**: [diet](diet.md), [side](side.md), [sitter](sitter.md), [stander](stander.md), [nose](nose.md), [actinomycete](actinomycete.md), [tracking](tracking.md), [trailing](trailing.md), [transmitter](transmitter.md), [trap](trap.md), [humaneness](humaneness.md), [vector](vector.md), [wart](wart.md), [body](body.md), [topknotted](topknotted.md), [registered](registered.md), [bone](bone.md), [crop](crop.md), [debone](debone.md), [domesticate](domesticate.md), [domesticise](domesticise.md), [domesticize](domesticize.md), [drench](drench.md), [graze](graze.md), [pasture](pasture.md), [reclaim](reclaim.md), [tame](tame.md), [adult](adult.md), [all-devouring](all-devouring.md), [big](big.md), [bone-covered](bone-covered.md), [crested](crested.md), [epizootic](epizootic.md), [flesh-eating](flesh-eating.md), [free-swimming](free-swimming.md), [full-grown](full-grown.md), [gregarious](gregarious.md), [grown](grown.md), [grownup](grownup.md), [half-blooded](half-blooded.md), [half-bred](half-bred.md), [half-breed](half-breed.md), [hispid](hispid.md), [insectivorous](insectivorous.md), [meat-eating](meat-eating.md), [phytophagic](phytophagic.md), [phytophagous](phytophagous.md), [phytophilous](phytophilous.md), [plant-eating](plant-eating.md), [micro-organism](micro-organism.md), [social](social.md), [sacrifice](sacrifice.md), [unattached](unattached.md), [microorganism](microorganism.md), [tufted](tufted.md), [zoophagous](zoophagous.md), [unregistered](unregistered.md)
+- **derivation**: [beastly](beastly.md), [bestial](bestial.md)

@@ -1,0 +1,7 @@
+# cithern
+
+## [a](a.md) [16th](16th.md) [century](century.md) [musical](musical.md) [instrument](instrument.md) resembling [a](a.md) [guitar](guitar.md) [with](with.md) [a](a.md) [pear-shaped](pear-shaped.md) [soundbox](soundbox.md) [and](and.md) [wire](wire.md) [strings](strings.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [cither](cither.md), [citole](citole.md), [cittern](cittern.md), [gittern](gittern.md)
+- **typeOf**: [guitar](guitar.md)

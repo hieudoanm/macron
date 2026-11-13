@@ -1,0 +1,7 @@
+# alarming
+
+## [frightening](frightening.md) [because](because.md) [of](of.md) [an](an.md) [awareness](awareness.md) [of](of.md) [danger](danger.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **antonyms**: [unalarming](unalarming.md)
+- **similarTo**: [appalling](appalling.md), [atrocious](atrocious.md), [awful](awful.md), [baleful](baleful.md), [bloodcurdling](bloodcurdling.md), [chilling](chilling.md), [creepy](creepy.md), [creepy-crawly](creepy-crawly.md), [dire](dire.md), [direful](direful.md), [dismaying](dismaying.md), [dread](dread.md), [dreaded](dreaded.md), [dreadful](dreadful.md), [fearful](fearful.md), [fearsome](fearsome.md), [forbidding](forbidding.md), [formidable](formidable.md), [frightening](frightening.md), [frightful](frightful.md), [ghastly](ghastly.md), [grim](grim.md), [grisly](grisly.md), [gruesome](gruesome.md), [hair-raising](hair-raising.md), [hairy](hairy.md), [horrendous](horrendous.md), [horrible](horrible.md), [horrific](horrific.md), [horrifying](horrifying.md), [macabre](macabre.md), [menacing](menacing.md), [minacious](minacious.md), [minatory](minatory.md), [nightmarish](nightmarish.md), [ominous](ominous.md), [petrifying](petrifying.md), [redoubtable](redoubtable.md), [scary](scary.md), [shivery](shivery.md), [shuddery](shuddery.md), [sick](sick.md), [sinister](sinister.md), [stupefying](stupefying.md), [terrible](terrible.md), [terrific](terrific.md), [terrifying](terrifying.md), [threatening](threatening.md), [ugly](ugly.md), [unnerving](unnerving.md)

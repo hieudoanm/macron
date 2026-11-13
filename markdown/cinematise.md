@@ -1,0 +1,7 @@
+# cinematise
+
+## [make](make.md) [a](a.md) [film](film.md) [of](of.md) [or](or.md) [adopt](adopt.md) [so](so.md) [as](as.md) [to](to.md) [make](make.md) [into](into.md) [a](a.md) [film](film.md)
+
+- **partOfSpeech**: [verb](verb.md)
+- **synonyms**: [cinematize](cinematize.md)
+- **typeOf**: [film](film.md)

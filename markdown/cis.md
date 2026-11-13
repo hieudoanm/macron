@@ -1,0 +1,6 @@
+# cis
+
+## [an](an.md) [alliance](alliance.md) [made](made.md) [up](up.md) [of](of.md) [states](states.md) [that](that.md) [had](had.md) [been](been.md) Soviet Socialist Republics [in](in.md) [the](the.md) Soviet Union [prior](prior.md) [to](to.md) [its](its.md) [dissolution](dissolution.md) [in](in.md) Dec 1991
+
+- **partOfSpeech**: [noun](noun.md)
+- **hasMembers**: [belarus](belarus.md), [belorussia](belorussia.md), [byelarus](byelarus.md), [byelorussia](byelorussia.md), [georgia](georgia.md), [hayastan](hayastan.md), [kazak](kazak.md), [kazakh](kazakh.md), [kazakhstan](kazakhstan.md), [kazakstan](kazakstan.md), [kirghiz](kirghiz.md), [kirghizia](kirghizia.md), [kirghizstan](kirghizstan.md), [kirgiz](kirgiz.md), [kirgizia](kirgizia.md), [kirgizstan](kirgizstan.md), [kyrgyzstan](kyrgyzstan.md), [moldavia](moldavia.md), [moldova](moldova.md), [russia](russia.md), [sakartvelo](sakartvelo.md), [tadjik](tadjik.md), [tadzhik](tadzhik.md), [tadzhikistan](tadzhikistan.md), [tajik](tajik.md), [tajikistan](tajikistan.md), [turkmen](turkmen.md), [turkmenia](turkmenia.md), [turkmenistan](turkmenistan.md), [turkomen](turkomen.md), [armenia](armenia.md), [ukrayina](ukrayina.md), [uzbek](uzbek.md), [uzbekistan](uzbekistan.md), [ukraine](ukraine.md), [azerbaijan](azerbaijan.md), [azerbajdzhan](azerbajdzhan.md)

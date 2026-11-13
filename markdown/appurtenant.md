@@ -1,0 +1,8 @@
+# appurtenant
+
+## [furnishing](furnishing.md) added [support](support.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [accessory](accessory.md), [adjunct](adjunct.md), [adjuvant](adjuvant.md), [ancillary](ancillary.md), [auxiliary](auxiliary.md)
+- **similarTo**: [supportive](supportive.md)
+- **derivation**: [appertain](appertain.md), [appurtenance](appurtenance.md)

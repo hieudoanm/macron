@@ -1,0 +1,9 @@
+# bookman
+
+## [a](a.md) [learned](learned.md) [person](person.md) ([especially](especially.md) [in](in.md) [the](the.md) [humanities](humanities.md)); [someone](someone.md) [who](who.md) [by](by.md) [long](long.md) [study](study.md) [has](has.md) gained [mastery](mastery.md) [in](in.md) [one](one.md) [or](or.md) [more](more.md) disciplines
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [scholar](scholar.md), [student](student.md)
+- **typeOf**: [intellectual](intellectual.md), [intellect](intellect.md)
+- **hasTypes**: [alumna](alumna.md), [alumnus](alumnus.md), [arabist](arabist.md), [bibliographer](bibliographer.md), [bibliophile](bibliophile.md), [booklover](booklover.md), [bookworm](bookworm.md), [cabalist](cabalist.md), [doctor](doctor.md), [dr.](dr..md), [savant](savant.md), [alum](alum.md), [shakespearean](shakespearean.md), [shakespearian](shakespearian.md), [sinologist](sinologist.md), [theologian](theologian.md), [theologiser](theologiser.md), [theologist](theologist.md), [theologizer](theologizer.md), [valedictorian](valedictorian.md), [vedist](vedist.md), [generalist](generalist.md), [goliard](goliard.md), [grad](grad.md), [graduate](graduate.md), [historian](historian.md), [historiographer](historiographer.md), [humanist](humanist.md), [initiate](initiate.md), [islamist](islamist.md), [kabbalist](kabbalist.md), [licentiate](licentiate.md), [masorete](masorete.md), [masorite](masorite.md), [massorete](massorete.md), [master](master.md), [mujtihad](mujtihad.md), [musicologist](musicologist.md), [pedant](pedant.md), [philomath](philomath.md), [philosopher](philosopher.md), [postdoc](postdoc.md), [pundit](pundit.md), [reader](reader.md), [salutatorian](salutatorian.md), [academician](academician.md), [scholastic](scholastic.md), [scholiast](scholiast.md), [schoolman](schoolman.md)
+- **hasInstances**: [crichton](crichton.md), [malone](malone.md), [varro](varro.md)

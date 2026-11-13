@@ -1,0 +1,8 @@
+# brio
+
+## [quality](quality.md) [of](of.md) [being](being.md) [active](active.md) [or](or.md) [spirited](spirited.md) [or](or.md) [alive](alive.md) [and](and.md) [vigorous](vigorous.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [animation](animation.md), [invigoration](invigoration.md), [spiritedness](spiritedness.md), [vivification](vivification.md)
+- **typeOf**: [activeness](activeness.md), [activity](activity.md)
+- **hasTypes**: [liveliness](liveliness.md), [spirit](spirit.md), [sprightliness](sprightliness.md), [life](life.md), [chirpiness](chirpiness.md)

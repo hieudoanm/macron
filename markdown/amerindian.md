@@ -1,0 +1,7 @@
+# amerindian
+
+## [any](any.md) [member](member.md) [of](of.md) [the](the.md) [peoples](peoples.md) [living](living.md) [in](in.md) North [or](or.md) South America [before](before.md) [the](the.md) Europeans [arrived](arrived.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **typeOf**: [soul](soul.md), [individual](individual.md), [mortal](mortal.md), [person](person.md), [someone](someone.md), [somebody](somebody.md)
+- **hasTypes**: [athapascan](athapascan.md), [athapaskan](athapaskan.md), [carib](carib.md), [chickasaw](chickasaw.md), [creek](creek.md), [eskimo](eskimo.md), [esquimau](esquimau.md), [haida](haida.md), [hoka](hoka.md), [hokan](hokan.md), [injun](injun.md), [inuit](inuit.md), [iroquois](iroquois.md), [maya](maya.md), [mayan](mayan.md), [muskhogean](muskhogean.md), [muskogean](muskogean.md), [nahuatl](nahuatl.md), [olmec](olmec.md), [paleo-american](paleo-american.md), [paleo-amerind](paleo-amerind.md), [paleo-indian](paleo-indian.md), [penutian](penutian.md), [pueblo](pueblo.md), [redskin](redskin.md), [salish](salish.md), [sannup](sannup.md), [shoshone](shoshone.md), [shoshoni](shoshoni.md), [squaw](squaw.md), [tlingit](tlingit.md), [wakashan](wakashan.md), [zapotec](zapotec.md), [aleut](aleut.md), [zapotecan](zapotecan.md), [aleutian](aleutian.md), [algonquian](algonquian.md), [algonquin](algonquin.md), [anasazi](anasazi.md), [arawak](arawak.md), [arawakan](arawakan.md), [athabascan](athabascan.md), [athabaskan](athabaskan.md)

@@ -1,0 +1,6 @@
+# dichroism
+
+## [pleochroism](pleochroism.md) [of](of.md) [a](a.md) [crystal](crystal.md) [so](so.md) [that](that.md) [it](it.md) exhibits [two](two.md) [different](different.md) [colors](colors.md) [when](when.md) viewed [from](from.md) [two](two.md) [different](different.md) [directions](directions.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **typeOf**: [pleochroism](pleochroism.md)

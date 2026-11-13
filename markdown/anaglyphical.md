@@ -1,0 +1,8 @@
+# anaglyphical
+
+## [related](related.md) [to](to.md) anaglyphs [or](or.md) [anaglyphy](anaglyphy.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [anaglyphic](anaglyphic.md), [anaglyptic](anaglyptic.md), [anaglyptical](anaglyptical.md)
+- **pertainsTo**: [anaglyph](anaglyph.md)
+- **derivation**: [anaglyph](anaglyph.md), [anaglyphy](anaglyphy.md)

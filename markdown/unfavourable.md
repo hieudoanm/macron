@@ -1,0 +1,25 @@
+# unfavourable
+
+## [involving](involving.md) [or](or.md) [creating](creating.md) [circumstances](circumstances.md) [detrimental](detrimental.md) [to](to.md) [success](success.md) [or](or.md) [effectiveness](effectiveness.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [disadvantageous](disadvantageous.md), [unfavorable](unfavorable.md)
+- **similarTo**: [minus](minus.md), [negative](negative.md)
+- **also**: [inopportune](inopportune.md), [harmful](harmful.md), [inexpedient](inexpedient.md)
+- **derivation**: [unfavourableness](unfavourableness.md)
+
+## ([of](of.md) winds [or](or.md) [weather](weather.md)) [tending](tending.md) [to](to.md) [hinder](hinder.md) [or](or.md) [oppose](oppose.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [unfavorable](unfavorable.md)
+- **similarTo**: [contrary](contrary.md), [adverse](adverse.md)
+- **also**: [unpropitious](unpropitious.md)
+- **derivation**: [unfavourableness](unfavourableness.md)
+
+## [not](not.md) [encouraging](encouraging.md) [or](or.md) [approving](approving.md) [or](or.md) [pleasing](pleasing.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [unfavorable](unfavorable.md)
+- **similarTo**: [untoward](untoward.md), [admonitory](admonitory.md), [adverse](adverse.md), [disapproving](disapproving.md), [discriminatory](discriminatory.md), [inauspicious](inauspicious.md), [invidious](invidious.md), [reproachful](reproachful.md), [reproving](reproving.md), [admonishing](admonishing.md)
+- **also**: [hostile](hostile.md), [negative](negative.md), [uncomplimentary](uncomplimentary.md), [bad](bad.md), [critical](critical.md)
+- **derivation**: [unfavourableness](unfavourableness.md)

@@ -1,0 +1,7 @@
+# granduncle
+
+## [an](an.md) [uncle](uncle.md) [of](of.md) [your](your.md) [father](father.md) [or](or.md) [mother](mother.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [great-uncle](great-uncle.md)
+- **typeOf**: [uncle](uncle.md)

@@ -1,0 +1,8 @@
+# statesmanship
+
+## [wisdom](wisdom.md) [in](in.md) [the](the.md) [management](management.md) [of](of.md) [public](public.md) [affairs](affairs.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [diplomacy](diplomacy.md), [statecraft](statecraft.md)
+- **typeOf**: [wisdom](wisdom.md), [wiseness](wiseness.md)
+- **derivation**: [statesman](statesman.md)

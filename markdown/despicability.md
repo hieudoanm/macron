@@ -1,0 +1,8 @@
+# despicability
+
+## [unworthiness](unworthiness.md) [by](by.md) [virtue](virtue.md) [of](of.md) [lacking](lacking.md) [higher](higher.md) [values](values.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [baseness](baseness.md), [contemptibility](contemptibility.md), [despicableness](despicableness.md), [sordidness](sordidness.md)
+- **typeOf**: [unworthiness](unworthiness.md)
+- **derivation**: [despicable](despicable.md)

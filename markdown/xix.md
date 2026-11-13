@@ -1,0 +1,12 @@
+# xix
+
+## [being](being.md) [one](one.md) [more](more.md) [than](than.md) [eighteen](eighteen.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [19](19.md), [nineteen](nineteen.md)
+- **similarTo**: [cardinal](cardinal.md)
+
+## [the](the.md) [cardinal](cardinal.md) [number](number.md) [that](that.md) [is](is.md) [the](the.md) [sum](sum.md) [of](of.md) [eighteen](eighteen.md) [and](and.md) [one](one.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [19](19.md), [nineteen](nineteen.md)

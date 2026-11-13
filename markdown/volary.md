@@ -1,0 +1,7 @@
+# volary
+
+## [a](a.md) [building](building.md) [where](where.md) birds [are](are.md) [kept](kept.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [aviary](aviary.md)
+- **typeOf**: [building](building.md), [edifice](edifice.md)

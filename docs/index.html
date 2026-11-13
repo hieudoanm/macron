@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>macron — word graph</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <script src="https://unpkg.com/3d-force-graph@1"></script>
+    <style>
+      html,
+      body {
+        margin: 0;
+        height: 100%;
+        overflow: hidden;
+      }
+      body {
+        font-family: system-ui, sans-serif;
+        background: #0f1115;
+        color: #ddd;
+        overflow: hidden;
+      }
+      #graph {
+        width: 100vw;
+        height: 100vh;
+      }
+      #hud {
+        position: fixed;
+        top: 12px;
+        left: 12px;
+        padding: 10px 14px;
+        background: rgba(20, 24, 32, 0.85);
+        border-radius: 8px;
+        font-size: 13px;
+        line-height: 1.7;
+        user-select: none;
+        z-index: 10;
+      }
+      #hud b {
+        color: #7cc4ff;
+      }
+      #hud label {
+        display: inline-block;
+        width: 78px;
+        color: #999;
+      }
+      #hud input {
+        width: 64px;
+        background: #1a1f2a;
+        color: #ddd;
+        border: 1px solid #3a4a63;
+        border-radius: 4px;
+        padding: 1px 5px;
+        font: inherit;
+      }
+      #hud button {
+        background: #26405e;
+        color: #cfe4ff;
+        border: none;
+        border-radius: 4px;
+        padding: 2px 10px;
+        font: inherit;
+        cursor: pointer;
+      }
+      #hud .hint {
+        color: #666;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="graph"></div>
+    <div id="hud">
+      <b>macron word graph</b> (3D)<br />
+      nodes: <span id="nn">0</span> / <span id="nt">0</span> · links:
+      <span id="nl">0</span> / <span id="lt">0</span><br />
+      <label>max nodes</label
+      ><input id="max" type="number" min="100" step="50" value="1000" /><br />
+      <label>min degree</label
+      ><input id="mindeg" type="number" min="1" value="2" /><br />
+      <label>links</label><input id="showlinks" type="checkbox" /><br />
+      <button id="apply">Apply</button>
+      <span class="hint"> drag to orbit · scroll to zoom</span>
+    </div>
+    <script>
+      const container = document.getElementById('graph');
+
+      let Graph = null;
+      let raw = null;
+
+      fetch('graph.min.json')
+        .then((r) => {
+          if (!r.ok)
+            throw new Error(`HTTP ${r.status} — run 'make graph' first`);
+          return r.json();
+        })
+        .then((data) => {
+          raw = data;
+          document.getElementById('nt').textContent = raw.nodes.length;
+          document.getElementById('lt').textContent = raw.links.length;
+
+          const params = new URLSearchParams(location.search);
+          document.getElementById('max').value = params.get('max') || 1000;
+          document.getElementById('mindeg').value = params.get('mindeg') || 2;
+
+          Graph = ForceGraph3D()(container)
+            .backgroundColor('#0f1115')
+            .nodeLabel((n) => `${n.id} — ${n.file} (degree ${n.deg})`)
+            .nodeColor(() => '#7cc4ff')
+            .nodeVal((n) => Math.min(4, 0.4 + Math.sqrt(n.deg) * 0.3))
+            .nodeResolution(4)
+            .linkColor(() => 'rgba(90, 120, 170, 0.35)')
+            .linkWidth((l) => Math.min(2, 0.4 + l.weight * 0.2))
+            .linkOpacity(0.5)
+            .cooldownTicks(200)
+            .onEngineStop(() =>
+              setTimeout(() => Graph.pauseAnimation?.(), 3000)
+            );
+
+          document.getElementById('apply').onclick = render;
+          render();
+        })
+        .catch((err) => {
+          console.error(err);
+          alert(
+            "failed to load graph.min.json — run 'make graph' and serve via HTTP"
+          );
+        });
+
+      function render() {
+        const maxNodes = +document.getElementById('max').value || 1000;
+        const minDegree = +document.getElementById('mindeg').value || 1;
+
+        const degree = new Map();
+        for (const [s, t] of raw.links) {
+          degree.set(s, (degree.get(s) || 0) + 1);
+          degree.set(t, (degree.get(t) || 0) + 1);
+        }
+
+        const keep = new Set(
+          raw.nodes
+            .map(([id, file]) => ({ id, deg: degree.get(id) || 0 }))
+            .sort((a, b) => b.deg - a.deg)
+            .slice(0, maxNodes)
+            .filter((n) => n.deg >= minDegree)
+            .map((n) => n.id)
+        );
+
+        const nodes = raw.nodes
+          .filter(([id]) => keep.has(id))
+          .map(([id, file]) => ({ id, file, deg: degree.get(id) || 0 }));
+        const showLinks = document.getElementById('showlinks').checked;
+        const links = showLinks
+          ? raw.links
+              .filter(([s, t]) => keep.has(s) && keep.has(t))
+              .map(([s, t, w]) => ({ source: s, target: t, weight: w }))
+          : [];
+
+        document.getElementById('nn').textContent = nodes.length;
+        document.getElementById('nl').textContent = showLinks
+          ? links.length
+          : '0 (hidden)';
+
+        Graph.resumeAnimation?.();
+        Graph.graphData({ nodes, links });
+      }
+    </script>
+  </body>
+</html>

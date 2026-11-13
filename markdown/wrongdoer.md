@@ -1,0 +1,7 @@
+# wrongdoer
+
+## [a](a.md) [person](person.md) [who](who.md) transgresses [moral](moral.md) [or](or.md) [civil](civil.md) [law](law.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [offender](offender.md)
+- **hasTypes**: [aggressor](aggressor.md), [assailant](assailant.md), [assaulter](assaulter.md), [attacker](attacker.md), [backslider](backslider.md), [barrater](barrater.md), [barrator](barrator.md), [beguiler](beguiler.md), [cheat](cheat.md), [cheater](cheater.md), [convict](convict.md), [culprit](culprit.md), [deceiver](deceiver.md), [defector](defector.md), [delinquent](delinquent.md), [deserter](deserter.md), [evildoer](evildoer.md), [ganef](ganef.md), [ganof](ganof.md), [gonif](gonif.md), [goniff](goniff.md), [malfeasant](malfeasant.md), [maltreater](maltreater.md), [miscreant](miscreant.md), [molester](molester.md), [no-show](no-show.md), [nonattender](nonattender.md), [pandar](pandar.md), [pander](pander.md), [panderer](panderer.md), [perpetrator](perpetrator.md), [pettifogger](pettifogger.md), [pimp](pimp.md), [ponce](ponce.md), [principal](principal.md), [procurer](procurer.md), [recidivist](recidivist.md), [reprobate](reprobate.md), [reversionist](reversionist.md), [shark](shark.md), [shyster](shyster.md), [sinner](sinner.md), [slicker](slicker.md), [supplanter](supplanter.md), [transgressor](transgressor.md), [trickster](trickster.md), [truant](truant.md), [usurper](usurper.md), [abuser](abuser.md)

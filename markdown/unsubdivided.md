@@ -1,0 +1,9 @@
+# unsubdivided
+
+## ([botany](botany.md)) [of](of.md) [leaf](leaf.md) shapes; [of](of.md) [leaves](leaves.md) [having](having.md) [no](no.md) divisions [or](or.md) subdivisions
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [simple](simple.md)
+- **similarTo**: [acuminate](acuminate.md), [apiculate](apiculate.md), [arrow-shaped](arrow-shaped.md), [bladelike](bladelike.md), [caudate](caudate.md), [cordate](cordate.md), [cordiform](cordiform.md), [cuneate](cuneate.md), [deltoid](deltoid.md), [dolabrate](dolabrate.md), [dolabriform](dolabriform.md), [elliptic](elliptic.md), [elongate](elongate.md), [ensiform](ensiform.md), [fiddle-shaped](fiddle-shaped.md), [five-needled](five-needled.md), [four-needled](four-needled.md), [hastate](hastate.md), [heart-shaped](heart-shaped.md), [kidney-shaped](kidney-shaped.md), [lancelike](lancelike.md), [lanceolate](lanceolate.md), [linear](linear.md), [lyrate](lyrate.md), [needle-shaped](needle-shaped.md), [needled](needled.md), [oblanceolate](oblanceolate.md), [oblong](oblong.md), [obovate](obovate.md), [obtuse](obtuse.md), [orbicular](orbicular.md), [orbiculate](orbiculate.md), [ovate](ovate.md), [pandurate](pandurate.md), [panduriform](panduriform.md), [peltate](peltate.md), [perfoliate](perfoliate.md), [reniform](reniform.md), [sagittate](sagittate.md), [sagittiform](sagittiform.md), [shield-shaped](shield-shaped.md), [spatula-shaped](spatula-shaped.md), [spatulate](spatulate.md), [spearhead-shaped](spearhead-shaped.md), [sword-shaped](sword-shaped.md), [swordlike](swordlike.md), [three-needled](three-needled.md), [two-needled](two-needled.md), [unlobed](unlobed.md), [wedge-shaped](wedge-shaped.md), [acerate](acerate.md), [acerose](acerose.md), [acicular](acicular.md)
+- **also**: [smooth](smooth.md), [simple](simple.md)
+- **inCategory**: [phytology](phytology.md), [botany](botany.md)

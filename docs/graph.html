@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>macron — word graph (2D)</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <style>
+      body {
+        margin: 0;
+        font-family: system-ui, sans-serif;
+        background: #0f1115;
+        color: #ddd;
+      }
+      #graph {
+        width: 100vw;
+        height: 100vh;
+        display: block;
+        cursor: grab;
+      }
+      #graph:active {
+        cursor: grabbing;
+      }
+      #hud {
+        position: fixed;
+        top: 12px;
+        left: 12px;
+        padding: 10px 14px;
+        background: rgba(20, 24, 32, 0.85);
+        border-radius: 8px;
+        font-size: 13px;
+        line-height: 1.7;
+        user-select: none;
+      }
+      #hud b {
+        color: #7cc4ff;
+      }
+      #hud label {
+        display: inline-block;
+        width: 78px;
+        color: #999;
+      }
+      #hud input {
+        width: 64px;
+        background: #1a1f2a;
+        color: #ddd;
+        border: 1px solid #3a4a63;
+        border-radius: 4px;
+        padding: 1px 5px;
+        font: inherit;
+      }
+      #hud button {
+        background: #26405e;
+        color: #cfe4ff;
+        border: none;
+        border-radius: 4px;
+        padding: 2px 10px;
+        font: inherit;
+        cursor: pointer;
+      }
+      .link {
+        stroke: #3a4a63;
+        stroke-opacity: 0.3;
+      }
+      .node {
+        fill: #7cc4ff;
+      }
+      .node:hover {
+        fill: #ffd166;
+      }
+      #tooltip {
+        position: fixed;
+        display: none;
+        padding: 6px 10px;
+        background: rgba(20, 24, 32, 0.95);
+        border: 1px solid #3a4a63;
+        border-radius: 6px;
+        font-size: 12px;
+        line-height: 1.5;
+        pointer-events: none;
+        z-index: 10;
+        white-space: nowrap;
+      }
+      #tooltip b {
+        color: #7cc4ff;
+        font-size: 14px;
+      }
+      #tooltip .deg {
+        color: #999;
+      }
+    </style>
+  </head>
+  <body>
+    <svg id="graph"></svg>
+    <div id="tooltip"></div>
+    <div id="hud">
+      <b>macron word graph</b> (2D)<br />
+      nodes: <span id="nn">0</span> / <span id="nt">0</span> · links:
+      <span id="nl">0</span> / <span id="lt">0</span><br />
+      <label>max nodes</label
+      ><input id="max" type="number" min="100" step="50" value="500" /><br />
+      <label>min degree</label
+      ><input id="mindeg" type="number" min="1" value="2" /><br />
+      <button id="apply">Apply</button>
+      <span style="color: #666"> drag to pan · scroll to zoom</span>
+    </div>
+    <script>
+      const svg = d3.select('#graph');
+      const width = () => window.innerWidth;
+      const height = () => window.innerHeight;
+
+      const zoom = d3
+        .zoom()
+        .on('zoom', (e) => g.attr('transform', e.transform));
+      svg.call(zoom);
+      const g = svg.append('g');
+
+      let simulation = null;
+
+      // graph.min.json format: {"nodes": [[id, file], ...], "links": [[src, dst, weight], ...]}
+      fetch('graph.min.json')
+        .then((r) => {
+          if (!r.ok)
+            throw new Error(`HTTP ${r.status} — run 'make graph' first`);
+          return r.json();
+        })
+        .then((raw) => {
+          const totalNodes = raw.nodes.length;
+          const totalLinks = raw.links.length;
+          document.getElementById('nt').textContent = totalNodes;
+          document.getElementById('lt').textContent = totalLinks;
+
+          const params = new URLSearchParams(location.search);
+          document.getElementById('max').value = params.get('max') || 500;
+          document.getElementById('mindeg').value = params.get('mindeg') || 2;
+
+          document.getElementById('apply').onclick = render;
+          render();
+
+          function render() {
+            const maxNodes = +document.getElementById('max').value || 500;
+            const minDegree = +document.getElementById('mindeg').value || 1;
+
+            // degree of each node across the full graph
+            const degree = new Map();
+            for (const [s, t] of raw.links) {
+              degree.set(s, (degree.get(s) || 0) + 1);
+              degree.set(t, (degree.get(t) || 0) + 1);
+            }
+
+            // keep top-N nodes by degree, then drop those under minDegree
+            let keep = new Set(
+              raw.nodes
+                .map(([id, file]) => ({ id, file, deg: degree.get(id) || 0 }))
+                .sort((a, b) => b.deg - a.deg)
+                .slice(0, maxNodes)
+                .filter((n) => n.deg >= minDegree)
+                .map((n) => n.id)
+            );
+
+            const nodes = raw.nodes
+              .filter(([id]) => keep.has(id))
+              .map(([id, file]) => ({
+                id,
+                file,
+                deg: degree.get(id) || 0,
+              }));
+            const links = raw.links
+              .filter(([s, t]) => keep.has(s) && keep.has(t))
+              .map(([s, t, w]) => ({ source: s, target: t, weight: w }));
+
+            document.getElementById('nn').textContent = nodes.length;
+            document.getElementById('nl').textContent = links.length;
+
+            g.selectAll('*').remove();
+            if (simulation) simulation.stop();
+
+            simulation = d3
+              .forceSimulation(nodes)
+              .force(
+                'link',
+                d3
+                  .forceLink(links)
+                  .id((d) => d.id)
+                  .distance(60)
+              )
+              .force('charge', d3.forceManyBody().strength(-120))
+              .force('center', d3.forceCenter(width() / 2, height() / 2))
+              .force('collide', d3.forceCollide(12));
+
+            const link = g
+              .append('g')
+              .selectAll('line')
+              .data(links)
+              .join('line')
+              .attr('class', 'link')
+              .attr('stroke-width', (d) => Math.min(3, 0.5 + d.weight * 0.3));
+
+            const node = g
+              .append('g')
+              .selectAll('circle')
+              .data(nodes)
+              .join('circle')
+              .attr('class', 'node')
+              .attr('r', 4)
+              .call(drag(simulation));
+
+            const tooltip = document.getElementById('tooltip');
+            node
+              .on('mouseover', (e, d) => {
+                tooltip.innerHTML =
+                  `<b>${d.id}</b><br/>` +
+                  `${d.file}<br/>` +
+                  `<span class="deg">degree: ${d.deg}</span>`;
+                tooltip.style.display = 'block';
+              })
+              .on('mousemove', (e) => {
+                tooltip.style.left = e.clientX + 12 + 'px';
+                tooltip.style.top = e.clientY + 12 + 'px';
+              })
+              .on('mouseout', () => {
+                tooltip.style.display = 'none';
+              });
+
+            simulation.on('tick', () => {
+              link
+                .attr('x1', (d) => d.source.x)
+                .attr('y1', (d) => d.source.y)
+                .attr('x2', (d) => d.target.x)
+                .attr('y2', (d) => d.target.y);
+              node.attr('cx', (d) => d.x).attr('cy', (d) => d.y);
+            });
+          }
+
+          function drag(sim) {
+            return d3
+              .drag()
+              .on('start', (e, d) => {
+                if (!e.active) sim.alphaTarget(0.3).restart();
+                d.fx = d.x;
+                d.fy = d.y;
+              })
+              .on('drag', (e, d) => {
+                d.fx = e.x;
+                d.fy = e.y;
+              })
+              .on('end', (e, d) => {
+                if (!e.active) sim.alphaTarget(0);
+                d.fx = null;
+                d.fy = null;
+              });
+          }
+        })
+        .catch((err) => {
+          console.error(err);
+          alert(
+            "failed to load graph.min.json — run 'make graph' and serve via HTTP"
+          );
+        });
+    </script>
+  </body>
+</html>

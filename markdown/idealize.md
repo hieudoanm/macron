@@ -1,0 +1,20 @@
+# idealize
+
+## [form](form.md) ideals
+
+- **partOfSpeech**: [verb](verb.md)
+- **synonyms**: [idealise](idealise.md)
+- **typeOf**: [hatch](hatch.md), [concoct](concoct.md)
+- **derivation**: [ideal](ideal.md)
+- **examples**:
+  - Man [has](has.md) [always](always.md) [idealized](idealized.md)
+
+## [consider](consider.md) [or](or.md) [render](render.md) [as](as.md) [ideal](ideal.md)
+
+- **partOfSpeech**: [verb](verb.md)
+- **synonyms**: [idealise](idealise.md)
+- **typeOf**: [view](view.md), [consider](consider.md), [reckon](reckon.md), [regard](regard.md), [see](see.md)
+- **hasTypes**: [glamorize](glamorize.md), [romanticise](romanticise.md), [romanticize](romanticize.md), [deify](deify.md), [glamourise](glamourise.md)
+- **derivation**: [ideal](ideal.md), [idealization](idealization.md)
+- **examples**:
+  - She [idealized](idealized.md) [her](her.md) [husband](husband.md) [after](after.md) [his](his.md) [death](death.md)

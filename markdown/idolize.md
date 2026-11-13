@@ -1,0 +1,10 @@
+# idolize
+
+## [love](love.md) [unquestioningly](unquestioningly.md) [and](and.md) [uncritically](uncritically.md) [or](or.md) [to](to.md) [excess](excess.md); [venerate](venerate.md) [as](as.md) [an](an.md) [idol](idol.md)
+
+- **partOfSpeech**: [verb](verb.md)
+- **synonyms**: [hero-worship](hero-worship.md), [idolise](idolise.md), [revere](revere.md), [worship](worship.md)
+- **typeOf**: [adore](adore.md)
+- **derivation**: [idol](idol.md), [idolization](idolization.md), [idolizer](idolizer.md)
+- **examples**:
+  - Many teenagers [idolized](idolized.md) [the](the.md) Beatles

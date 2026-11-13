@@ -1,0 +1,7 @@
+# foodie
+
+## [a](a.md) [person](person.md) [devoted](devoted.md) [to](to.md) [refined](refined.md) [sensuous](sensuous.md) [enjoyment](enjoyment.md) ([especially](especially.md) [good](good.md) [food](food.md) [and](and.md) [drink](drink.md))
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [epicure](epicure.md), [epicurean](epicurean.md), [gastronome](gastronome.md), [gourmet](gourmet.md)
+- **typeOf**: [sensualist](sensualist.md)

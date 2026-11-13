@@ -1,0 +1,8 @@
+# corpulency
+
+## [more](more.md) [than](than.md) [average](average.md) [fatness](fatness.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [fleshiness](fleshiness.md), [obesity](obesity.md)
+- **typeOf**: [blubber](blubber.md), [avoirdupois](avoirdupois.md), [fat](fat.md), [fatness](fatness.md)
+- **hasTypes**: [overweight](overweight.md), [plumpness](plumpness.md), [roundness](roundness.md), [adiposis](adiposis.md), [stoutness](stoutness.md), [corpulence](corpulence.md), [embonpoint](embonpoint.md)

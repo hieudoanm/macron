@@ -1,0 +1,7 @@
+# clxx
+
+## [being](being.md) [ten](ten.md) [more](more.md) [than](than.md) [one](one.md) [hundred](hundred.md) [sixty](sixty.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [170](170.md)
+- **similarTo**: [cardinal](cardinal.md)

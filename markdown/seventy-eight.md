@@ -1,0 +1,18 @@
+# seventy-eight
+
+## [being](being.md) [eight](eight.md) [more](more.md) [than](than.md) [seventy](seventy.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [78](78.md), [lxxviii](lxxviii.md)
+- **similarTo**: [cardinal](cardinal.md)
+
+## [the](the.md) [cardinal](cardinal.md) [number](number.md) [that](that.md) [is](is.md) [the](the.md) [sum](sum.md) [of](of.md) [seventy](seventy.md) [and](and.md) [eight](eight.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [78](78.md), [lxxviii](lxxviii.md)
+
+## [a](a.md) [shellac](shellac.md) [based](based.md) [phonograph](phonograph.md) [record](record.md) [that](that.md) [played](played.md) [at](at.md) [78](78.md) revolutions [per](per.md) [minute](minute.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [78](78.md)
+- **typeOf**: [disc](disc.md), [disk](disk.md), [platter](platter.md), [record](record.md)

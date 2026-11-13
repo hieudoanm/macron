@@ -1,0 +1,10 @@
+# bharat
+
+## [a](a.md) [republic](republic.md) [in](in.md) [the](the.md) Asian [subcontinent](subcontinent.md) [in](in.md) [southern](southern.md) Asia; [second](second.md) [most](most.md) [populous](populous.md) [country](country.md) [in](in.md) [the](the.md) [world](world.md); [achieved](achieved.md) [independence](independence.md) [from](from.md) [the](the.md) United Kingdom [in](in.md) 1947
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [india](india.md)
+- **partOf**: [asia](asia.md)
+- **hasParts**: [punjab](punjab.md), [salem](salem.md), [sikkim](sikkim.md), [manipur](manipur.md), [assam](assam.md), [bangalore](bangalore.md), [bihar](bihar.md), [bombay](bombay.md), [brahmaputra](brahmaputra.md), [calcutta](calcutta.md), [canara](canara.md), [cashmere](cashmere.md), [chennai](chennai.md), [delhi](delhi.md), [ganges](ganges.md), [goa](goa.md), [gujarat](gujarat.md), [gujerat](gujerat.md), [himalaya](himalaya.md), [himalayas](himalayas.md), [hindustan](hindustan.md), [hyderabad](hyderabad.md), [jabalpur](jabalpur.md), [jubbulpore](jubbulpore.md), [kamet](kamet.md), [kanara](kanara.md), [karnataka](karnataka.md), [kashmir](kashmir.md), [kolkata](kolkata.md), [lucknow](lucknow.md), [madras](madras.md), [maharashtra](maharashtra.md), [agra](agra.md), [mumbai](mumbai.md), [mysore](mysore.md), [orissa](orissa.md)
+- **hasMembers**: [indian](indian.md)
+- **regionOf**: [pucka](pucka.md), [dakoit](dakoit.md), [dakoity](dakoity.md), [wallah](wallah.md), [pukka](pukka.md), [casteless](casteless.md), [outcaste](outcaste.md), [lucknow](lucknow.md), [al-ummah](al-ummah.md), [godown](godown.md), [mahout](mahout.md), [malik](malik.md), [mulligatawny](mulligatawny.md), [ayah](ayah.md), [ashram](ashram.md), [nabob](nabob.md), [chapati](chapati.md), [nawab](nawab.md), [hindooism](hindooism.md), [hinduism](hinduism.md), [chapatti](chapatti.md), [panchayat](panchayat.md), [panchayet](panchayet.md), [panipat](panipat.md), [plassey](plassey.md), [punchayet](punchayet.md), [crore](crore.md), [subcontinent](subcontinent.md), [jawan](jawan.md), [dacoit](dacoit.md), [dacoity](dacoity.md)

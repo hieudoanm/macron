@@ -1,0 +1,6 @@
+# toothpowder
+
+## [a](a.md) [dentifrice](dentifrice.md) [in](in.md) [the](the.md) [form](form.md) [of](of.md) [a](a.md) [powder](powder.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **typeOf**: [dentifrice](dentifrice.md)

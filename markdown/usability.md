@@ -1,0 +1,7 @@
+# usability
+
+## [the](the.md) [quality](quality.md) [of](of.md) [being](being.md) [able](able.md) [to](to.md) [provide](provide.md) [good](good.md) [service](service.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [serviceability](serviceability.md), [serviceableness](serviceableness.md), [usableness](usableness.md), [useableness](useableness.md)
+- **typeOf**: [usefulness](usefulness.md), [utility](utility.md)

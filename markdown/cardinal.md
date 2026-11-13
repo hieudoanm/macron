@@ -1,0 +1,45 @@
+# cardinal
+
+## [crested](crested.md) [thick-billed](thick-billed.md) North American [finch](finch.md) [having](having.md) [bright](bright.md) [red](red.md) [plumage](plumage.md) [in](in.md) [the](the.md) [male](male.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [redbird](redbird.md)
+- **typeOf**: [finch](finch.md)
+- **memberOf**: [richmondena](richmondena.md)
+
+## [the](the.md) [number](number.md) [of](of.md) [elements](elements.md) [in](in.md) [a](a.md) [mathematical](mathematical.md) [set](set.md); denotes [a](a.md) [quantity](quantity.md) [but](but.md) [not](not.md) [the](the.md) [order](order.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **typeOf**: [number](number.md)
+- **hasTypes**: [googolplex](googolplex.md), [googol](googol.md), [frequency](frequency.md)
+
+## [a](a.md) [variable](variable.md) [color](color.md) [averaging](averaging.md) [a](a.md) [vivid](vivid.md) [red](red.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [carmine](carmine.md)
+- **typeOf**: [red](red.md), [redness](redness.md)
+
+## [serving](serving.md) [as](as.md) [an](an.md) [essential](essential.md) [component](component.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [central](central.md), [fundamental](fundamental.md), [key](key.md), [primal](primal.md)
+- **similarTo**: [important](important.md)
+- **examples**:
+  - [a](a.md) [cardinal](cardinal.md) [rule](rule.md)
+
+## [being](being.md) [or](or.md) [denoting](denoting.md) [a](a.md) [numerical](numerical.md) [quantity](quantity.md) [but](but.md) [not](not.md) [order](order.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **antonyms**: [ordinal](ordinal.md)
+- **similarTo**: [zillion](zillion.md), [xlvi](xlvi.md), [xlvii](xlvii.md), [xlviii](xlviii.md), [xv](xv.md), [xvi](xvi.md), [xvii](xvii.md), [xviii](xviii.md), [xx](xx.md), [xxi](xxi.md), [xxii](xxii.md), [xxiii](xxiii.md), [xxiv](xxiv.md), [xxix](xxix.md), [xxv](xxv.md), [xxvi](xxvi.md), [xxvii](xxvii.md), [xxviii](xxviii.md), [xxx](xxx.md), [xxxi](xxxi.md), [xxxii](xxxii.md), [xxxiii](xxxiii.md), [xxxiv](xxxiv.md), [xxxv](xxxv.md), [xxxvi](xxxvi.md), [xxxvii](xxxvii.md), [xxxviii](xxxviii.md), [zero](zero.md), [0](0.md), [1](1.md), [10](10.md), [100](100.md), [1000](1000.md), [101](101.md), [105](105.md), [11](11.md), [110](110.md), [115](115.md), [12](12.md), [120](120.md), [125](125.md), [13](13.md), [130](130.md), [135](135.md), [14](14.md), [140](140.md), [145](145.md), [15](15.md), [150](150.md), [155](155.md), [16](16.md), [160](160.md), [165](165.md), [17](17.md), [170](170.md), [175](175.md), [18](18.md), [180](180.md), [19](19.md), [190](190.md), [2](2.md), [20](20.md), [200](200.md), [21](21.md), [22](22.md), [23](23.md), [24](24.md), [25](25.md), [26](26.md), [27](27.md), [28](28.md), [29](29.md), [3](3.md), [30](30.md), [300](300.md), [31](31.md), [32](32.md), [33](33.md), [34](34.md), [35](35.md), [36](36.md), [37](37.md), [38](38.md), [39](39.md), [4](4.md), [40](40.md), [400](400.md), [41](41.md), [42](42.md), [43](43.md), [44](44.md), [45](45.md), [46](46.md), [47](47.md), [48](48.md), [49](49.md), [5](5.md), [50](50.md), [500](500.md), [51](51.md), [52](52.md), [53](53.md), [54](54.md), [55](55.md), [56](56.md), [57](57.md), [58](58.md), [59](59.md), [6](6.md), [60](60.md), [61](61.md), [62](62.md), [63](63.md), [64](64.md), [65](65.md), [66](66.md), [67](67.md), [68](68.md), [69](69.md), [7](7.md), [70](70.md), [71](71.md), [72](72.md), [73](73.md), [74](74.md), [75](75.md), [76](76.md), [77](77.md), [78](78.md), [79](79.md), [8](8.md), [80](80.md), [81](81.md), [82](82.md), [83](83.md), [84](84.md), [85](85.md), [86](86.md), [87](87.md), [88](88.md), [89](89.md), [9](9.md), [90](90.md), [91](91.md), [92](92.md), [93](93.md), [94](94.md), [95](95.md), [96](96.md), [97](97.md), [98](98.md), [99](99.md), [ane](ane.md), [billion](billion.md), [c](c.md), [cc](cc.md), [ccc](ccc.md), [cd](cd.md), [ci](ci.md), [cl](cl.md), [clv](clv.md), [clx](clx.md), [clxv](clxv.md), [clxx](clxx.md), [clxxv](clxxv.md), [clxxx](clxxx.md), [cv](cv.md), [cx](cx.md), [cxl](cxl.md), [cxlv](cxlv.md), [cxv](cxv.md), [cxx](cxx.md), [cxxv](cxxv.md), [cxxx](cxxx.md), [cxxxv](cxxxv.md), [d](d.md), [dozen](dozen.md), [eight](eight.md), [eighteen](eighteen.md), [eighty](eighty.md), [eighty-eight](eighty-eight.md), [eighty-five](eighty-five.md), [eighty-four](eighty-four.md), [eighty-nine](eighty-nine.md), [eighty-one](eighty-one.md), [eighty-seven](eighty-seven.md), [eighty-six](eighty-six.md), [eighty-three](eighty-three.md), [eighty-two](eighty-two.md), [eleven](eleven.md), [fifteen](fifteen.md), [fifty](fifty.md), [fifty-eight](fifty-eight.md), [fifty-five](fifty-five.md), [fifty-four](fifty-four.md), [fifty-nine](fifty-nine.md), [fifty-one](fifty-one.md), [fifty-seven](fifty-seven.md), [fifty-six](fifty-six.md), [fifty-three](fifty-three.md), [fifty-two](fifty-two.md), [five](five.md), [forty](forty.md), [forty-eight](forty-eight.md), [forty-five](forty-five.md), [forty-four](forty-four.md), [forty-nine](forty-nine.md), [forty-one](forty-one.md), [forty-seven](forty-seven.md), [forty-six](forty-six.md), [forty-three](forty-three.md), [forty-two](forty-two.md), [four](four.md), [fourscore](fourscore.md), [fourteen](fourteen.md), [half-dozen](half-dozen.md), [hundred](hundred.md), [i](i.md), [ic](ic.md), [ii](ii.md), [iii](iii.md), [il](il.md), [ilx](ilx.md), [ilxx](ilxx.md), [ilxxx](ilxxx.md), [iv](iv.md), [ix](ix.md), [ixc](ixc.md), [ixl](ixl.md), [k](k.md), [l](l.md), [li](li.md), [lii](lii.md), [liii](liii.md), [liv](liv.md), [lv](lv.md), [lvi](lvi.md), [lvii](lvii.md), [lviii](lviii.md), [lx](lx.md), [lxi](lxi.md), [lxii](lxii.md), [lxiii](lxiii.md), [lxiv](lxiv.md), [lxv](lxv.md), [lxvi](lxvi.md), [lxvii](lxvii.md), [lxviii](lxviii.md), [lxx](lxx.md), [lxxi](lxxi.md), [lxxii](lxxii.md), [lxxiii](lxxiii.md), [lxxiv](lxxiv.md), [lxxv](lxxv.md), [lxxvi](lxxvi.md), [lxxvii](lxxvii.md), [lxxviii](lxxviii.md), [lxxx](lxxx.md), [lxxxi](lxxxi.md), [lxxxii](lxxxii.md), [lxxxiii](lxxxiii.md), [lxxxiv](lxxxiv.md), [lxxxv](lxxxv.md), [lxxxvi](lxxxvi.md), [lxxxvii](lxxxvii.md), [lxxxviii](lxxxviii.md), [m](m.md), [million](million.md), [nine](nine.md), [nineteen](nineteen.md), [ninety](ninety.md), [ninety-eight](ninety-eight.md), [ninety-five](ninety-five.md), [ninety-four](ninety-four.md), [ninety-nine](ninety-nine.md), [ninety-one](ninety-one.md), [ninety-seven](ninety-seven.md), [ninety-six](ninety-six.md), [ninety-three](ninety-three.md), [ninety-two](ninety-two.md), [non-zero](non-zero.md), [one](one.md), [seven](seven.md), [seventeen](seventeen.md), [seventy](seventy.md), [seventy-eight](seventy-eight.md), [seventy-five](seventy-five.md), [seventy-four](seventy-four.md), [seventy-nine](seventy-nine.md), [seventy-one](seventy-one.md), [seventy-seven](seventy-seven.md), [seventy-six](seventy-six.md), [seventy-three](seventy-three.md), [seventy-two](seventy-two.md), [six](six.md), [sixteen](sixteen.md), [sixty](sixty.md), [sixty-eight](sixty-eight.md), [sixty-five](sixty-five.md), [sixty-four](sixty-four.md), [sixty-nine](sixty-nine.md), [sixty-one](sixty-one.md), [sixty-seven](sixty-seven.md), [sixty-six](sixty-six.md), [sixty-three](sixty-three.md), [sixty-two](sixty-two.md), [ten](ten.md), [thirteen](thirteen.md), [thirty](thirty.md), [thirty-eight](thirty-eight.md), [thirty-five](thirty-five.md), [thirty-four](thirty-four.md), [thirty-nine](thirty-nine.md), [thirty-one](thirty-one.md), [thirty-seven](thirty-seven.md), [thirty-six](thirty-six.md), [thirty-three](thirty-three.md), [thirty-two](thirty-two.md), [thousand](thousand.md), [three](three.md), [threescore](threescore.md), [trillion](trillion.md), [twelve](twelve.md), [twenty](twenty.md), [twenty-eight](twenty-eight.md), [twenty-five](twenty-five.md), [twenty-four](twenty-four.md), [twenty-nine](twenty-nine.md), [twenty-one](twenty-one.md), [twenty-seven](twenty-seven.md), [twenty-six](twenty-six.md), [twenty-three](twenty-three.md), [twenty-two](twenty-two.md), [two](two.md), [twoscore](twoscore.md), [v](v.md), [vi](vi.md), [vii](vii.md), [viii](viii.md), [x](x.md), [xc](xc.md), [xci](xci.md), [xcii](xcii.md), [xciii](xciii.md), [xciv](xciv.md), [xcl](xcl.md), [xcv](xcv.md), [xcvi](xcvi.md), [xcvii](xcvii.md), [xcviii](xcviii.md), [xi](xi.md), [xii](xii.md), [xiii](xiii.md), [xiv](xiv.md), [xix](xix.md), [xl](xl.md), [xli](xli.md), [xlii](xlii.md), [xliii](xliii.md), [xliv](xliv.md), [xlv](xlv.md)
+- **examples**:
+  - [cardinal](cardinal.md) [numbers](numbers.md)
+
+## (Roman Catholic Church) [one](one.md) [of](of.md) [a](a.md) [group](group.md) [of](of.md) [more](more.md) [than](than.md) [100](100.md) [prominent](prominent.md) bishops [in](in.md) [the](the.md) Sacred College [who](who.md) [advise](advise.md) [the](the.md) Pope [and](and.md) [elect](elect.md) [new](new.md) Popes
+
+- **partOfSpeech**: [noun](noun.md)
+- **typeOf**: [bishop](bishop.md)
+- **hasTypes**: [dean](dean.md)
+- **hasInstances**: [bellarmino](bellarmino.md), [bellarmine](bellarmine.md), [borgia](borgia.md)
+- **memberOf**: [cardinalate](cardinalate.md)
+- **derivation**: [cardinalship](cardinalship.md)

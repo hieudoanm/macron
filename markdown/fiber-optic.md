@@ -1,0 +1,6 @@
+# fiber-optic
+
+## [of](of.md) [or](or.md) [relating](relating.md) [to](to.md) [fiber](fiber.md) [optics](optics.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [fiberoptic](fiberoptic.md), [fibre-optic](fibre-optic.md), [fibreoptic](fibreoptic.md)

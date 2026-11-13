@@ -1,0 +1,8 @@
+# alphanumerical
+
+## [of](of.md) [or](or.md) pertaining [to](to.md) [alphanumeric](alphanumeric.md) characters
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [alphameric](alphameric.md), [alphamerical](alphamerical.md), [alphanumeric](alphanumeric.md)
+- **pertainsTo**: [alphanumerics](alphanumerics.md)
+- **derivation**: [alphanumerics](alphanumerics.md)

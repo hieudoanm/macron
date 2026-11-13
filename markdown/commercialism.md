@@ -1,0 +1,10 @@
+# commercialism
+
+## [transactions](transactions.md) ([sales](sales.md) [and](and.md) purchases) [having](having.md) [the](the.md) [objective](objective.md) [of](of.md) [supplying](supplying.md) commodities ([goods](goods.md) [and](and.md) [services](services.md))
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [commerce](commerce.md), [mercantilism](mercantilism.md)
+- **typeOf**: [dealing](dealing.md), [dealings](dealings.md), [transaction](transaction.md)
+- **hasTypes**: [distribution](distribution.md), [e-commerce](e-commerce.md), [evasion](evasion.md), [exchange](exchange.md), [exportation](exportation.md), [exporting](exporting.md), [importation](importation.md), [importing](importing.md), [interchange](interchange.md), [ipo](ipo.md), [marketing](marketing.md), [merchandising](merchandising.md), [nonpayment](nonpayment.md), [payment](payment.md), [selling](selling.md), [trade](trade.md), [trading](trading.md), [traffic](traffic.md), [defrayal](defrayal.md), [defrayment](defrayment.md), [business](business.md)
+- **hasParts**: [shipping](shipping.md), [transport](transport.md), [transportation](transportation.md)
+- **hasCategories**: [trade](trade.md), [negociate](negociate.md), [pawn](pawn.md), [purchase](purchase.md), [realise](realise.md), [realize](realize.md), [remainder](remainder.md), [resell](resell.md), [retail](retail.md), [sell](sell.md), [shop](shop.md), [smuggle](smuggle.md), [soak](soak.md), [stock](stock.md), [take](take.md), [traffic](traffic.md), [transact](transact.md), [trust](trust.md), [turn](turn.md), [wholesale](wholesale.md), [usance](usance.md), [antique](antique.md), [arbitrage](arbitrage.md), [auction](auction.md), [auctioneer](auctioneer.md), [broker](broker.md), [browse](browse.md), [buy](buy.md), [clear](clear.md), [commercialise](commercialise.md), [commercialize](commercialize.md), [comparison-shop](comparison-shop.md), [deaccession](deaccession.md), [deal](deal.md), [export](export.md), [franchise](franchise.md), [get](get.md), [hock](hock.md), [import](import.md), [impulse-buy](impulse-buy.md), [liquidize](liquidize.md), [market](market.md), [merchandise](merchandise.md)

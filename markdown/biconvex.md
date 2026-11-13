@@ -1,0 +1,7 @@
+# biconvex
+
+## [convex](convex.md) [on](on.md) [both](both.md) sides; [shaped](shaped.md) [like](like.md) [a](a.md) [lentil](lentil.md)
+
+- **partOfSpeech**: [adjective](adjective.md)
+- **synonyms**: [convexo-convex](convexo-convex.md), [lenticular](lenticular.md), [lentiform](lentiform.md)
+- **similarTo**: [bulging](bulging.md), [convex](convex.md)

@@ -1,0 +1,7 @@
+# strumpet
+
+## [a](a.md) [woman](woman.md) [adulterer](adulterer.md)
+
+- **partOfSpeech**: [noun](noun.md)
+- **synonyms**: [adulteress](adulteress.md), [fornicatress](fornicatress.md), [hussy](hussy.md), [jade](jade.md), [slut](slut.md), [trollop](trollop.md)
+- **typeOf**: [adulterer](adulterer.md), [fornicator](fornicator.md)
